@@ -1,0 +1,117 @@
+[ 2016-12-01T10:04:46+08:00 ] 124.207.8.66 /api.php?m=Basket&c=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002343s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+ERR: 无法加载控制器:Goodssum
+
+[ 2016-12-01T10:04:58+08:00 ] 124.207.8.66 /api.php?c=Basket&m=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002383s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0011s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+
+[ 2016-12-01T10:05:04+08:00 ] 124.207.8.66 /api.php?m=Basket&c=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002315s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+ERR: 无法加载控制器:Goodssum
+
+[ 2016-12-01T10:05:05+08:00 ] 101.226.68.197 /api.php?m=Basket&c=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002305s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+ERR: 无法加载控制器:Goodssum
+
+[ 2016-12-01T10:05:12+08:00 ] 124.207.8.66 /api.php?c=Basket&m=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002243s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0009s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+
+[ 2016-12-01T10:05:17+08:00 ] 180.153.214.198 /api.php?c=Basket&m=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002315s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0008s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+
+[ 2016-12-01T10:07:37+08:00 ] 124.207.8.66 /api.php?c=Basket&a=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002314s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0008s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+
+[ 2016-12-01T10:07:50+08:00 ] 124.207.8.66 /api.php?c=Basket&a=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002347s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0007s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+
+[ 2016-12-01T10:07:53+08:00 ] 101.226.89.116 /api.php?c=Basket&a=goodssum
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002582s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 1366 行.
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0008s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+

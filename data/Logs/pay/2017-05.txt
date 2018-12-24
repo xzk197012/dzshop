@@ -1,0 +1,1633 @@
+2017-05-25 14:58:24  支付订单号：201705251458034000  支付成功  
+2017-05-25 15:36:27  支付订单号：201705251536104200  支付成功  
+2017-05-25 15:39:10  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251536441300\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251536441300\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'3bba439bdc2d22bb8c765dde7d53552e\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:45:06  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251536441300\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251536441300\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'3bba439bdc2d22bb8c765dde7d53552e\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:48:32  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251536441300\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251536441300\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'3bba439bdc2d22bb8c765dde7d53552e\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:48:32  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:48:36  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:48:36  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:50:30  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:50:30  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:50:42  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:50:42  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:50:44  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:50:44  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:51:45  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:51:45  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:51:45  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:51:45  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:51:45  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:51:45  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:51:47  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:51:47  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:56:06  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:56:06  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:56:06  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:56:06  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:56:06  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:56:06  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:56:11  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251548347200\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251548347200\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'1c4de427a8622644b721180720320e5f\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:56:11  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 15:56:16  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251556132800\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251556132800\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'4b85ac1de81e86b3f1f62214a67a22ee\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 15:56:16  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => '',
+  'return_url' => '',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:05:24  '<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>支付宝支付</title></head><form id=\'alipaysubmit\' name=\'alipaysubmit\' action=\'https://mapi.alipay.com/gateway.do?_input_charset=utf-8\' method=\'get\'><input type=\'hidden\' name=\'_input_charset\' value=\'utf-8\'/><input type=\'hidden\' name=\'app_pay\' value=\'Y\'/><input type=\'hidden\' name=\'it_b_pay\' value=\'10m\'/><input type=\'hidden\' name=\'notify_url\' value=\'http://www.tqshq.com/api.php/Payment/alipayNotify\'/><input type=\'hidden\' name=\'out_trade_no\' value=\'201705251556132800\'/><input type=\'hidden\' name=\'partner\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'payment_type\' value=\'1\'/><input type=\'hidden\' name=\'return_url\' value=\'http://www.tqshq.com/api.php/Payment/alipayReturn\'/><input type=\'hidden\' name=\'seller_id\' value=\'2088511976159233\'/><input type=\'hidden\' name=\'service\' value=\'create_direct_pay_by_user\'/><input type=\'hidden\' name=\'show_url\' value=\'http://www.tqshq.com/wap/orderfail.html?order_sn=201705251556132800\'/><input type=\'hidden\' name=\'subject\' value=\'商品订单\'/><input type=\'hidden\' name=\'total_fee\' value=\'0.10\'/><input type=\'hidden\' name=\'sign\' value=\'3b54c8b6a127415104dd89e290b6b048\'/><input type=\'hidden\' name=\'sign_type\' value=\'MD5\'/><input type=\'submit\'  value=\'确认\' style=\'display:none;\'></form><script>document.forms[\'alipaysubmit\'].submit();</script></body></html>'
+2017-05-25 16:05:24  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:20:23  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:20:30  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:22:44  支付回调array (
+)
+2017-05-25 16:23:05  支付回调array (
+)
+2017-05-25 16:23:17  支付回跳array (
+  'buyer_email' => 'wo303667267@126.com',
+  'buyer_id' => '2088102187725410',
+  'exterface' => 'create_direct_pay_by_user',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3InYzNW7AfXFpSE5NjyqnCra7ULKdieJkYWMKMVZaZi7hMC2SWYZ',
+  'notify_time' => '2017-05-25 16:23:14',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201705251620288800',
+  'payment_type' => '1',
+  'seller_email' => '18608901558@wo.com.cn',
+  'seller_id' => '2088511976159233',
+  'subject' => '商品订单',
+  'total_fee' => '0.10',
+  'trade_no' => '2017052521001004410237633489',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => '402625d517aa3eee00e58036eb10917c',
+  'sign_type' => 'MD5',
+)
+2017-05-25 16:23:18  支付回跳array (
+  'order_sn' => '',
+)
+2017-05-25 16:29:04  支付回调array (
+)
+2017-05-25 16:29:25  支付回调array (
+)
+2017-05-25 16:29:28  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:29:28  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:29:32  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:29:43  支付回调array (
+)
+2017-05-25 16:29:54  支付回跳array (
+  'buyer_email' => 'wo303667267@126.com',
+  'buyer_id' => '2088102187725410',
+  'exterface' => 'create_direct_pay_by_user',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3InYzNW7AfnLnSD7UD8eg%2FonQ5Xvt8rOcO%2BXmiuHEqXKDMQdIwGf',
+  'notify_time' => '2017-05-25 16:29:51',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201705251629302200',
+  'payment_type' => '1',
+  'seller_email' => '18608901558@wo.com.cn',
+  'seller_id' => '2088511976159233',
+  'subject' => '商品订单',
+  'total_fee' => '0.10',
+  'trade_no' => '2017052521001004410238235973',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => 'd0f3126d08faa93727a4bfc09c7c359c',
+  'sign_type' => 'MD5',
+)
+2017-05-25 16:31:05  支付回调array (
+)
+2017-05-25 16:31:46  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:31:46  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:31:49  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:31:59  支付回调array (
+)
+2017-05-25 16:32:11  支付回跳array (
+  'buyer_email' => 'wo303667267@126.com',
+  'buyer_id' => '2088102187725410',
+  'exterface' => 'create_direct_pay_by_user',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3InYzNW7AOlzG5DNsiP4kHCBxpqm8k2l%2Fq0vlWb%2B9BqYuYtvBqON',
+  'notify_time' => '2017-05-25 16:32:08',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201705251631482600',
+  'payment_type' => '1',
+  'seller_email' => '18608901558@wo.com.cn',
+  'seller_id' => '2088511976159233',
+  'subject' => '商品订单',
+  'total_fee' => '0.10',
+  'trade_no' => '2017052521001004410238321852',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => 'bce3ec1953e787030e5a86a088a5ab29',
+  'sign_type' => 'MD5',
+)
+2017-05-25 16:32:11  订单详情array (
+  'order_id' => '204',
+  'order_sn' => '201705251631482600',
+  'pay_sn' => '201705251631482600',
+  'buyer_id' => '1',
+  'buyer_name' => '13907544831',
+  'buyer_email' => '',
+  'buyer_phone' => '13907544831',
+  'add_time' => '1495701108',
+  'payment_code' => '',
+  'payment_time' => '0',
+  'finnshed_time' => '0',
+  'goods_amount' => '0.10',
+  'order_amount' => '0.10',
+  'rcb_amount' => '0.00',
+  'pd_amount' => '0.00',
+  'shipping_fee' => '0.00',
+  'evaluation_state' => '0',
+  'evaluation_again_state' => '0',
+  'order_state' => '10',
+  'refund_state' => '0',
+  'lock_state' => '0',
+  'delete_state' => '0',
+  'refund_amount' => '0.00',
+  'delay_time' => '0',
+  'order_from' => '1',
+  'shipping_code' => '',
+  'order_type' => '1',
+  'chain_id' => '0',
+  'chain_code' => '0',
+  'rpt_amount' => '0.00',
+  'trade_no' => NULL,
+  'return_state' => '0',
+  'payment_starttime' => '1495701109',
+  'refund_sn' => '0',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'return_er_url' => '',
+)
+2017-05-25 16:37:20  支付回调array (
+)
+2017-05-25 16:38:25  支付回调array (
+)
+2017-05-25 16:38:53  支付回调array (
+)
+2017-05-25 16:40:18  支付回调array (
+)
+2017-05-25 16:44:53  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 16:45:07  支付回调array (
+)
+2017-05-25 16:45:11  支付回调array (
+)
+2017-05-25 16:47:13  支付回调array (
+)
+2017-05-25 17:13:26  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 17:13:39  支付回调array (
+)
+2017-05-25 17:13:52  支付回跳array (
+  'buyer_email' => 'wo303667267@126.com',
+  'buyer_id' => '2088102187725410',
+  'exterface' => 'create_direct_pay_by_user',
+  'is_success' => 'T',
+  'notify_id' => 'RqPnCoPT3K9%2Fvwbh3InYzNW7Au8f%2BNIMWaddZ34siBJR13lsS%2FSbMtlE71JpOCQrB2Uj',
+  'notify_time' => '2017-05-25 17:13:48',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201705251713236800',
+  'payment_type' => '1',
+  'seller_email' => '18608901558@wo.com.cn',
+  'seller_id' => '2088511976159233',
+  'subject' => '商品订单',
+  'total_fee' => '0.10',
+  'trade_no' => '2017052521001004410238379901',
+  'trade_status' => 'TRADE_SUCCESS',
+  'sign' => '879995e9853175560b6fd08bd041ebbe',
+  'sign_type' => 'MD5',
+)
+2017-05-25 17:13:52  订单详情array (
+  'order_id' => '210',
+  'order_sn' => '201705251713236800',
+  'pay_sn' => '201705251713236800',
+  'buyer_id' => '1',
+  'buyer_name' => '13907544831',
+  'buyer_email' => '',
+  'buyer_phone' => '13907544831',
+  'add_time' => '1495703603',
+  'payment_code' => '',
+  'payment_time' => '0',
+  'finnshed_time' => '0',
+  'goods_amount' => '0.10',
+  'order_amount' => '0.10',
+  'rcb_amount' => '0.00',
+  'pd_amount' => '0.00',
+  'shipping_fee' => '0.00',
+  'evaluation_state' => '0',
+  'evaluation_again_state' => '0',
+  'order_state' => '10',
+  'refund_state' => '0',
+  'lock_state' => '0',
+  'delete_state' => '0',
+  'refund_amount' => '0.00',
+  'delay_time' => '0',
+  'order_from' => '1',
+  'shipping_code' => '',
+  'order_type' => '1',
+  'chain_id' => '0',
+  'chain_code' => '0',
+  'rpt_amount' => '0.00',
+  'trade_no' => NULL,
+  'return_state' => '0',
+  'payment_starttime' => '1495703606',
+  'refund_sn' => '0',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'return_er_url' => '',
+)
+2017-05-25 17:13:57  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-25 17:14:14  支付订单号：201705251713594400  支付成功  
+2017-05-25 17:15:34  支付回调array (
+)
+2017-05-25 17:16:46  支付回调array (
+)
+2017-05-25 17:17:48  支付回调array (
+)
+2017-05-25 17:21:45  支付回调array (
+)
+2017-05-25 17:22:31  支付回调array (
+)
+2017-05-25 17:24:36  支付回调array (
+)
+2017-05-25 17:29:35  支付回调array (
+)
+2017-05-25 17:34:49  支付回调array (
+)
+2017-05-25 17:37:42  支付回调array (
+)
+2017-05-25 17:42:26  支付回调array (
+)
+2017-05-25 17:44:40  支付回调array (
+)
+2017-05-25 17:51:06  支付回调array (
+)
+2017-05-25 17:58:36  支付回调array (
+)
+2017-05-25 18:00:46  支付回调array (
+)
+2017-05-25 18:13:11  支付回调array (
+)
+2017-05-25 18:19:38  支付回调array (
+)
+2017-05-25 18:22:21  支付回调array (
+)
+2017-05-25 18:28:52  支付回调array (
+)
+2017-05-25 18:42:44  支付回调array (
+)
+2017-05-25 19:30:17  支付回调array (
+)
+2017-05-25 19:38:10  支付回调array (
+)
+2017-05-25 19:38:40  支付回调array (
+)
+2017-05-25 19:47:51  支付回调array (
+)
+2017-05-25 19:48:26  支付回调array (
+)
+2017-05-25 19:52:06  支付回调array (
+)
+2017-05-25 19:53:12  支付回调array (
+)
+2017-05-25 19:54:35  支付回调array (
+)
+2017-05-25 19:55:15  支付回调array (
+)
+2017-05-25 19:56:37  支付回调array (
+)
+2017-05-25 20:00:06  支付回调array (
+)
+2017-05-25 20:09:06  支付回调array (
+)
+2017-05-25 20:15:14  支付回调array (
+)
+2017-05-25 20:18:32  支付回调array (
+)
+2017-05-25 20:25:28  支付回调array (
+)
+2017-05-25 20:38:48  支付回调array (
+)
+2017-05-26 01:30:39  支付回调array (
+)
+2017-05-26 01:38:17  支付回调array (
+)
+2017-05-26 01:47:23  支付回调array (
+)
+2017-05-26 01:54:41  支付回调array (
+)
+2017-05-26 01:56:29  支付回调array (
+)
+2017-05-26 02:09:15  支付回调array (
+)
+2017-05-26 02:15:48  支付回调array (
+)
+2017-05-26 02:17:27  支付回调array (
+)
+2017-05-26 02:24:35  支付回调array (
+)
+2017-05-26 02:37:08  支付回调array (
+)
+2017-05-26 10:41:04  支付回调array (
+)
+2017-05-26 10:45:42  支付回调array (
+)
+2017-05-26 10:49:10  支付回调array (
+)
+2017-05-26 10:52:29  支付回调array (
+)
+2017-05-26 10:56:49  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 10:57:03  支付回调array (
+)
+2017-05-26 10:57:18  支付回调array (
+)
+2017-05-26 10:58:05  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => '2pKwrnuXtze8Nbrlqwy/dA==',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 10:58:40  支付回调array (
+)
+2017-05-26 11:05:23  支付回调array (
+)
+2017-05-26 11:10:55  支付回调array (
+)
+2017-05-26 11:12:27  支付回调array (
+)
+2017-05-26 11:15:46  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 11:15:59  支付回调array (
+)
+2017-05-26 11:24:13  支付回调array (
+)
+2017-05-26 11:27:30  支付回调array (
+)
+2017-05-26 11:55:19  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.146',
+  'REMOTE_PORT' => '49730',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495770919,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:00:11  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.120',
+  'REMOTE_PORT' => '54386',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495771211,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:02:35  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => 'out_trade_no=201705261155072200&trade_no=111111123123123123&trade_status=TRADE_SUCCESS',
+  'REQUEST_METHOD' => 'GET',
+  'CONTENT_TYPE' => '',
+  'CONTENT_LENGTH' => '',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify?out_trade_no=201705261155072200&trade_no=111111123123123123&trade_status=TRADE_SUCCESS',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '124.207.8.66',
+  'REMOTE_PORT' => '52359',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:53.0) Gecko/20100101 Firefox/53.0',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+  'HTTP_COOKIE' => 'Hm_lvt_2ec3ec5e8e0755e2665cbbe765f5ef99=1495505987,1495615457,1495697431,1495767379; key=2b86525c02826b6bb11ede5d1612117f; uid=101; PHPSESSID=681aa3ff4068758d8f28a03cda2b0dd2; pre_user_unique_id=RUe7bIWs; Hm_lpvt_2ec3ec5e8e0755e2665cbbe765f5ef99=1495768968; think_language=zh-CN',
+  'HTTP_CONNECTION' => 'keep-alive',
+  'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495771354,
+  'argv' => 
+  array (
+    0 => 'out_trade_no=201705261155072200&trade_no=111111123123123123&trade_status=TRADE_SUCCESS',
+  ),
+  'argc' => 1,
+)
+2017-05-26 12:03:23  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.38',
+  'REMOTE_PORT' => '50353',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495771403,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:07:51  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.102',
+  'REMOTE_PORT' => '41693',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495771671,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:10:52  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.226',
+  'REMOTE_PORT' => '52690',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495771852,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:19:22  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.111',
+  'REMOTE_PORT' => '55658',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495772362,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:22:37  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.67',
+  'REMOTE_PORT' => '54505',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495772557,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:25:08  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '600',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.144',
+  'REMOTE_PORT' => '22733',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '600',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495772708,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 12:44:24  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '600',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.68',
+  'REMOTE_PORT' => '30668',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '600',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495773864,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 13:20:11  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.132',
+  'REMOTE_PORT' => '26803',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495776011,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 13:24:34  array (
+  'USER' => 'www',
+  'HOME' => '/home/www',
+  'FCGI_ROLE' => 'RESPONDER',
+  'SCRIPT_FILENAME' => '/data/www/web/www.tqshq.com/api.php',
+  'SCRIPT_NAME' => '/api.php/Payment/alipayNotify',
+  'PATH_INFO' => 'Payment/alipayNotify',
+  'QUERY_STRING' => '',
+  'REQUEST_METHOD' => 'POST',
+  'CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'CONTENT_LENGTH' => '586',
+  'REQUEST_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_URI' => '/api.php/Payment/alipayNotify',
+  'DOCUMENT_ROOT' => '/data/www/web/www.tqshq.com',
+  'SERVER_PROTOCOL' => 'HTTP/1.1',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_SOFTWARE' => 'nginx/1.0.11',
+  'REMOTE_ADDR' => '110.75.242.158',
+  'REMOTE_PORT' => '23946',
+  'SERVER_ADDR' => '36.101.204.170',
+  'SERVER_PORT' => '80',
+  'SERVER_NAME' => 'www.tqshq.com',
+  'REDIRECT_STATUS' => '200',
+  'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded; charset=utf-8',
+  'HTTP_USER_AGENT' => 'Mozilla/4.0',
+  'HTTP_HOST' => 'www.tqshq.com',
+  'HTTP_CONTENT_LENGTH' => '586',
+  'PHP_SELF' => '/Payment/alipayNotify',
+  'REQUEST_TIME' => 1495776274,
+  'argv' => 
+  array (
+  ),
+  'argc' => 0,
+)
+2017-05-26 16:39:44  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 16:47:41  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 16:49:05  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 16:59:50  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:02:06  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:14:43  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:25:34  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:27:34  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:29:24  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturn',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:29:35  支付订单号：201705261729236000  支付成功  
+2017-05-26 17:31:22  支付订单号：201705261714418400  支付成功  
+2017-05-26 17:34:38  支付订单号：201705261725322200  支付成功  
+2017-05-26 17:35:23  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:35:34  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 17:35:52  支付订单号：201705261735200400  支付成功  
+2017-05-26 17:36:07  支付订单号：201705261727334800  支付成功  
+2017-05-26 17:38:53  支付订单号：201705251713236800  支付成功  
+2017-05-26 18:04:05  支付订单号：201705261639429200  支付成功  
+2017-05-26 18:12:16  支付订单号：201705261647398200  支付成功  
+2017-05-26 18:13:18  支付订单号：201705261649030200  支付成功  
+2017-05-26 18:17:54  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 18:18:04  支付订单号：201705261817354400  支付成功  
+2017-05-26 18:24:33  支付订单号：201705261659484700  支付成功  
+2017-05-26 18:26:40  支付订单号：201705261702042200  支付成功  
+2017-05-26 18:34:13  支付订单号：201705261834036000  支付成功  
+2017-05-26 19:47:32  支付订单号：201705261947238400  支付成功  
+2017-05-26 19:53:49  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 19:53:58  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-26 20:21:08  支付订单号：201705261056470300  支付成功  
+2017-05-26 21:19:40  支付订单号：201705261151005900  支付成功  
+2017-05-26 21:22:53  支付订单号：201705261155072200  支付成功  
+2017-05-26 22:15:03  支付订单号：201705262214514200  支付成功  
+2017-05-27 08:20:45  支付订单号：201705270820328200  支付成功  
+2017-05-27 09:00:53  支付订单号：201705270900259600  支付成功  
+2017-05-27 09:28:02  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 09:28:22  支付订单号：201705270928003800  支付成功  
+2017-05-27 09:29:34  支付订单号：201705270929156800  支付成功  
+2017-05-27 10:31:04  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 10:31:14  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 10:31:18  支付订单号：201705271031019200  支付成功  
+2017-05-27 10:31:59  支付订单号：201705271031446300  支付成功  
+2017-05-27 10:33:08  支付订单号：201705271032587200  支付成功  
+2017-05-27 10:34:55  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 10:34:59  支付订单号：201705271034459600  支付成功  
+2017-05-27 10:38:43  支付订单号：201705271037438600  支付成功  
+2017-05-27 11:05:09  支付订单号：201705271104588800  支付成功  
+2017-05-27 11:05:32  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 11:05:37  支付订单号：201705271105292400  支付成功  
+2017-05-27 11:43:38  支付订单号：201705261115450000  支付成功  
+2017-05-27 12:38:45  支付订单号：201705271238364200  支付成功  
+2017-05-27 12:39:46  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 12:39:53  支付订单号：201705271239432600  支付成功  
+2017-05-27 12:41:53  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 12:41:56  支付订单号：201705271241504600  支付成功  
+2017-05-27 12:43:26  支付订单号：201705271242304600  支付成功  
+2017-05-27 14:34:29  支付订单号：201705271434183000  支付成功  
+2017-05-27 14:50:42  支付订单号：201705271450316800  支付成功  
+2017-05-27 14:51:26  支付订单号：201705271451124900  支付成功  
+2017-05-27 14:55:13  支付订单号：201705271455000300  支付成功  
+2017-05-27 15:06:06  支付订单号：201705271505504500  支付成功  
+2017-05-27 15:06:21  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'create_direct_pay_by_user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 15:06:36  支付订单号：201705271506192400  支付成功  
+2017-05-27 15:07:15  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 15:07:24  支付订单号：201705271507102300  支付成功  
+2017-05-27 15:07:26  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 15:08:14  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 15:08:22  支付订单号：201705271508106200  支付成功  
+2017-05-27 15:08:24  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 15:09:47  支付订单号：201705271509376200  支付成功  
+2017-05-27 17:04:00  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)
+2017-05-27 18:20:50  支付订单号：201705271820382200  支付成功  
+2017-05-31 18:24:11  array (
+  'partner' => '2088511976159233',
+  'seller_id' => '2088511976159233',
+  'key' => 'lup75667ct92x9rggyob1ltp6vufcx0p',
+  'notify_url' => 'http://www.tqshq.com/api.php/Payment/alipayNotify',
+  'return_url' => 'http://www.tqshq.com/api.php/Payment/alipayReturnOther',
+  'sign_type' => 'MD5',
+  'input_charset' => 'utf-8',
+  'cacert' => 'http://www.tqshq.com/apps/Common/PayMent/AliPay/cacert.pem',
+  'transport' => 'http',
+  'payment_type' => '1',
+  'service' => 'alipay.wap.create.direct.pay.by.user',
+  'anti_phishing_key' => '',
+  'exter_invoke_ip' => '',
+)

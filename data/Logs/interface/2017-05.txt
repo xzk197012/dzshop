@@ -1,0 +1,2148 @@
+2017-05-25 12:18:52  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 12:18:52  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-25 12:18:54  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 12:18:54  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-25 14:47:56  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 14:47:56  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-25 14:47:58  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 14:47:58  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-25 14:48:01  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 14:48:01  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-25 14:54:07  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 14:54:07  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '885605cbb5ced49719fa08cfd69b9e05',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-25 14:54:09  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 14:54:09  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251454098300&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 14:55:23  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '18976231790',
+  'true_name' => '闲人',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 14:55:23  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251455234900&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 14:58:03  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '18976231790',
+  'true_name' => '闲人',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 14:58:03  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251458034000&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 14:58:39  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '18976231790',
+  'true_name' => '闲人',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 14:58:39  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251458396700&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 15:30:28  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 15:30:28  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251530280400&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 15:36:10  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 15:36:10  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251536104200&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 15:36:44  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 15:36:44  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251536441300&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 15:48:34  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '5911a8ea6b6f6558181811664fe22894',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 15:48:34  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251548347200&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 15:56:11  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 15:56:11  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '32f07d23ebecae59a18e6d7d55206728',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-25 15:56:13  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '38426d69a5913d3104f3ec84cd59ab20',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 15:56:13  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251556132800&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 16:13:09  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '38426d69a5913d3104f3ec84cd59ab20',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 16:13:09  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251613099400&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 16:20:28  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '38426d69a5913d3104f3ec84cd59ab20',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 16:20:28  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251620288800&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 16:29:30  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '38426d69a5913d3104f3ec84cd59ab20',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 16:29:30  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251629302200&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 16:31:48  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '38426d69a5913d3104f3ec84cd59ab20',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 16:31:48  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251631482600&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 17:12:58  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-25 17:12:58  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '3dce44453e05d991c0dac532d04fc09e',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-25 17:13:23  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '7473c6bf3006ac2e42ec67ff5ca3c2d5',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 17:13:23  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251713236800&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-25 17:13:59  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '7473c6bf3006ac2e42ec67ff5ca3c2d5',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-25 17:13:59  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705251713594400&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-26 07:59:35  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 07:59:35  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => 'fcf6a63eeedebb95a45e48ab79370a9b',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-26 16:06:13  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 16:06:13  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-26 17:31:22  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 17:31:22  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-26 17:32:10  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 17:32:10  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-26 17:32:18  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 17:32:18  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-26 17:35:19  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 17:35:19  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '9e4c90ed35e4b11100da725c2177545f',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-26 17:35:20  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '217e3588f68ecaaa7171ae28c9be2e20',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-26 17:35:20  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705261735200400&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-26 18:17:35  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '217e3588f68ecaaa7171ae28c9be2e20',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-26 18:17:35  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705261817354400&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-26 19:46:42  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 19:46:42  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => 'bf56dd94c33d00310007c6a9d708c30f',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-26 19:46:44  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '74ebecf9225d8577e43267255df0e405',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-26 19:46:44  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705261946446200&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-26 19:47:23  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '74ebecf9225d8577e43267255df0e405',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-26 19:47:23  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705261947238400&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-26 23:54:07  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-26 23:54:07  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => 'b2f5b6c178698aa72b9734e3431c0d44',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 09:27:23  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 09:27:23  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '9f94952af7adf87257ce557f034b5a15',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 09:27:55  请求参数：array (
+  'goods_id' => '177',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '27552a6b7cdca1e3671908edb7370be8',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 09:27:55  返回参数：array (
+  'code' => 1,
+  'msg' => '库存不足',
+  'data' => 
+  array (
+  ),
+)
+2017-05-27 09:28:00  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '27552a6b7cdca1e3671908edb7370be8',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 09:28:00  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705270928003800&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 09:30:30  请求参数：array (
+  'goods_id' => '177',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '27552a6b7cdca1e3671908edb7370be8',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 09:30:30  返回参数：array (
+  'code' => 1,
+  'msg' => '库存不足',
+  'data' => 
+  array (
+  ),
+)
+2017-05-27 09:30:43  请求参数：array (
+  'goods_id' => '177',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '27552a6b7cdca1e3671908edb7370be8',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 09:30:43  返回参数：array (
+  'code' => 1,
+  'msg' => '库存不足',
+  'data' => 
+  array (
+  ),
+)
+2017-05-27 09:31:17  请求参数：array (
+  'goods_id' => '177',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '27552a6b7cdca1e3671908edb7370be8',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 09:31:17  返回参数：array (
+  'code' => 1,
+  'msg' => '库存不足',
+  'data' => 
+  array (
+  ),
+)
+2017-05-27 10:30:57  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 10:30:57  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '6905be50958cae480c7abace8137a029',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 10:31:01  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '2505d47e73cef611b637c1de70c20955',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 10:31:01  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271031019200&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 10:31:44  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '2505d47e73cef611b637c1de70c20955',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 10:31:44  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271031446300&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 10:32:58  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '2505d47e73cef611b637c1de70c20955',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 10:32:58  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271032587200&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 10:34:45  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '2505d47e73cef611b637c1de70c20955',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 10:34:45  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271034459600&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 10:37:43  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '2505d47e73cef611b637c1de70c20955',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 10:37:43  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271037438600&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 11:04:58  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '2505d47e73cef611b637c1de70c20955',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 11:04:58  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271104588800&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 11:05:29  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '2505d47e73cef611b637c1de70c20955',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 11:05:29  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271105292400&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 11:43:05  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 11:43:05  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => 'a9927712b0bccd70431c5a241dd731fc',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 11:44:02  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '3a645235fa5c36b5712fb8c26d729959',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 11:44:02  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271144026200&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 11:44:09  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '3a645235fa5c36b5712fb8c26d729959',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 11:44:09  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271144094900&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 11:44:30  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '3a645235fa5c36b5712fb8c26d729959',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 11:44:30  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271144309600&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 12:38:36  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http%3A%2F%2Fbbs.tqcp.net%2F',
+  'token' => '3a645235fa5c36b5712fb8c26d729959',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 12:38:36  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271238364200&return_se_url=http%3A%2F%2Fbbs.tqcp.net%2F&return_er_url=',
+  ),
+)
+2017-05-27 12:39:43  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http%3A%2F%2Fbbs.tqcp.net%2F',
+  'token' => '3a645235fa5c36b5712fb8c26d729959',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 12:39:43  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271239432600&return_se_url=http%3A%2F%2Fbbs.tqcp.net%2F&return_er_url=',
+  ),
+)
+2017-05-27 12:41:50  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '3a645235fa5c36b5712fb8c26d729959',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 12:41:50  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271241504600&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 12:42:30  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '3a645235fa5c36b5712fb8c26d729959',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 12:42:30  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271242304600&return_se_url=http://bbs.tqcp.net/&return_er_url=',
+  ),
+)
+2017-05-27 12:57:03  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:03  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:06  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:06  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:22  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:22  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:24  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:24  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:28  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:28  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:30  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:30  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:48  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:48  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:50  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:50  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:57:54  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:57:54  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:58:05  请求参数：array (
+  'goods_id' => '177',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:58:05  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:58:52  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:58:52  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 12:58:55  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 12:58:55  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 14:06:38  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 14:06:38  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 14:06:47  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 14:06:47  返回参数：array (
+  'code' => 101,
+  'msg' => '获取token失败，原因：验证用户密码失败',
+  'data' => '用户密码验证失败',
+)
+2017-05-27 14:10:01  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 14:10:01  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '71e12893962a59bcec3e53bb5281e99e',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 14:10:02  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:10:02  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271410022100&return_se_url=http%3A%2F%2Fbbs.tqcp.net%2F&return_er_url=',
+  ),
+)
+2017-05-27 14:11:36  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:11:36  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271411362600&return_se_url=http%3A%2F%2Fbbs.tqcp.net%2F&return_er_url=',
+  ),
+)
+2017-05-27 14:23:41  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:23:41  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271423418300&return_se_url=http%3A%2F%2Fbbs.tqcp.net%2F&return_er_url=',
+  ),
+)
+2017-05-27 14:23:54  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:23:54  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271423548500&return_se_url=http%3A%2F%2Fbbs.tqcp.net%2F&return_er_url=',
+  ),
+)
+2017-05-27 14:25:31  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:25:31  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271425313100&return_se_url=bbs.tqcp.net%2F&return_er_url=',
+  ),
+)
+2017-05-27 14:34:18  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:34:18  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271434183000&return_se_url=YUhSMGNEb3ZMMkppY3k1MGNXTndMbTVsZEM4PQ==&return_er_url=',
+  ),
+)
+2017-05-27 14:36:44  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:36:44  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271436448200&return_se_url=YUhSMGNEb3ZMMkppY3k1MGNXTndMbTVsZEM4PQ==&return_er_url=',
+  ),
+)
+2017-05-27 14:42:38  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:42:38  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271442386300&return_se_url=YUhSMGNEb3ZMMkppY3k1MGNXTndMbTVsZEM4PQ==&return_er_url=',
+  ),
+)
+2017-05-27 14:44:09  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:44:09  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271444097800&return_se_url=YUhSMGNEb3ZMMkppY3k1MGNXTndMbTVsZEM4PQ==&return_er_url=',
+  ),
+)
+2017-05-27 14:45:31  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:45:31  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271445310200&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 14:46:04  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:46:04  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271446040400&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 14:50:31  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:50:31  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271450316800&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 14:51:12  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:51:12  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271451124900&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 14:55:00  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 14:55:00  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271455000300&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 15:05:50  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 15:05:50  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271505504500&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 15:06:19  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 15:06:19  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271506192400&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 15:08:10  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '357054aae3ac22528ed213c5c7c60b77',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 15:08:10  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271508106200&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 15:09:35  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 15:09:35  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '1f72348377bb18403b7b48b34c404996',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 15:09:37  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => 'f4a5b81c764c08fc8d224934746380d0',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 15:09:37  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271509376200&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 16:13:52  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 16:13:52  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => 'deeed627785156492fd1ba2bac6b7286',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 16:14:32  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '130ad1faba2373c590f6662dc648b624',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 16:14:32  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271614321500&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 16:15:10  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '130ad1faba2373c590f6662dc648b624',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 16:15:10  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271615108800&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 16:22:33  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '130ad1faba2373c590f6662dc648b624',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 16:22:33  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271622332200&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 17:03:55  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '130ad1faba2373c590f6662dc648b624',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 17:03:55  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271703556200&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 17:21:32  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 17:21:32  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => 'cb95b8942c298d8defdfd09eef922779',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-27 17:21:34  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '9a55f9950390a907ab313de810cf7cf3',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 17:21:34  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271721340300&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 18:20:06  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '9a55f9950390a907ab313de810cf7cf3',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 18:20:06  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271820068900&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 18:20:38  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => '9a55f9950390a907ab313de810cf7cf3',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-27 18:20:38  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705271820382200&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)
+2017-05-27 18:21:39  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-27 18:21:39  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '5764f502e919f0c486e373f41a0bbcdf',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-31 18:23:53  请求参数：array (
+  'user' => 'lyy12345',
+  'password' => '175047aee4c924cc503d7257ac48faa9',
+)
+2017-05-31 18:23:53  返回参数：array (
+  'code' => 0,
+  'msg' => 
+  array (
+    'token' => '949373f87c36c18eef8b32b43326a6ab',
+  ),
+  'data' => '获取token成功',
+)
+2017-05-31 18:24:00  请求参数：array (
+  'goods_id' => '172',
+  'goods_num' => '1',
+  'goods_price' => '1.00',
+  'area_info' => '北京 北京市 海淀区',
+  'address' => '金隅嘉华大厦1107',
+  'mob_phone' => '1002999231',
+  'true_name' => '凌云义',
+  'order_message' => '速度发货',
+  'return_se_url' => 'http://bbs.tqcp.net/',
+  'token' => 'c29e02727fba49e1ad8e7ab5ca0aee9c',
+  'member_id' => '1',
+  'member_name' => '13907544831',
+  'member_password' => '263ff8cb76fcd848c344a5f06c0b67f1',
+  'return_url' => 'http://www.baidu.com',
+  'return_er_url' => '',
+)
+2017-05-31 18:24:00  返回参数：array (
+  'code' => 0,
+  'msg' => '添加订单成功，请结算',
+  'data' => 
+  array (
+    'pay_url' => 'http://www.tqshq.com/wap/pay.html?order_sn=201705311824007600&return_se_url=aHR0cDovL2Jicy50cWNwLm5ldC8=&return_er_url=',
+  ),
+)

@@ -1,0 +1,881 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="aplus-terminal" content="1"/>
+    <meta name="keywords" content="SHOPDZ" />
+	<meta name="apple-mobile-web-app-title" content="TMALL"/>
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/>
+    <title>首页</title>
+	<link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/reset.css" />
+	<link rel="stylesheet" href="css/swiper.min.css">
+	<link rel="stylesheet" href="css/style.css" />
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/gotoTop.js"></script>
+	<script type="text/javascript" src="js/iscroll.js">
+		
+	</script>
+	<script type="text/javascript">
+		var myScroll;
+	function loaded() {
+		myScroll = new iScroll('tabItemCon,tabBodyCon');
+	}
+	</script>
+	<style type="text/css">
+		/*.classify{
+			position: fixed;
+			top: 0;
+			width: 90%;
+			left: -90%;
+			background: #fff;
+			height: 100%;
+			z-index: 10001;
+		}*/
+			/*分类页面classify.html样式开始*/
+/*.TabMain {
+	width:100%;
+	overflow: hidden;
+	zoom: 1;
+	position: absolute;
+	top: 4rem;
+	height: 100%;
+	left:0;
+	background: #fff;
+}*/
+/*#tabItemCon{
+	width:20%;
+	background: #eee;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	overflow-y: auto;
+	z-index: 12;
+}*/
+/*.scroller {
+	position:absolute; z-index:1;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+	width:100%;
+	padding:0;
+}
+
+.scroller ul {
+	list-style:none;
+	padding:0;
+	margin:0;
+	width:100%;
+	text-align:left;
+}*/
+/*#tabBodyCon {
+	width:79.9%;
+	position: absolute;
+	overflow-y: auto;
+	background: #fff;
+	top: 0;
+	left: 20%;
+	bottom: 0;
+}
+.tabItemContainer>li {
+	list-style: none;
+	text-align: center;
+}
+.tabItemContainer>li>a {
+	float: left;
+	width: 100%;
+	cursor: pointer;
+    padding: 22px 0;
+    border-bottom: 1px solid #E1E1E1;
+    color: #999;
+    font-size: 1.4rem;
+}*/
+/*.tabItemCurrent {
+	position: relative;
+	background: #fff;
+    color: #333 !important;
+}
+.tabItemContainer>li>a:hover {
+	color: #333;
+	text-decoration: none;
+}
+.tabBodyItem {
+	display: none;
+	background: #fff;
+}
+.tabBodyItem>p {
+	font: 13px "微软雅黑", Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin-top: 30px;
+}
+.tabBodyItem>p>a {
+	text-decoration: none;
+	color: #0F3;
+}
+.tabBodyCurrent{
+	display:block;
+	background: #fff;
+}*/
+/*.listul1{width: 100%;height:100%;background: #fff;}
+.listul1 li{float: left;width: 33.33333%;margin: 5px 0;height: 10rem;}
+.listul1 li>a{width:100%;height:8rem;display: block;position: relative;text-decoration: none;}
+.listul2 li{float: left;width: 25%;margin: 5px 0;}
+.listul2 li>a{width:100%;display: block;position: relative;text-decoration: none;}
+
+.tab-desc {
+    line-height: 100%;
+    height: 20%;
+    font-size: 14px;
+    color: #5D5D5D;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;  
+}*/
+/*.title2{width: 100%;height:4rem;background: #eee; border-bottom: 1px solid #E1E1E1;position: absolute;top: 0;left: 0;box-sizing: border-box;}*/
+/*.title2 h1{    font-weight: 400;
+    width: 23%;
+    text-align: center;
+    line-height: 44px;
+    color: #333;
+    font-size: 14px;
+    }*/
+/*.toggle-icon{
+	position: absolute;
+	top:0;
+	left: 1.5rem;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+}*/
+/*.logo{
+	display: inline-block;
+	position: absolute;
+	top:.8rem;
+	right:1.5rem;
+	width: 3rem;
+	height: auto;
+}*/
+/*.search-btn1{
+	width: 60%;
+	height:2.5rem;
+	display:inline-block;
+	margin-top:.8rem;
+	margin-left: 1rem;
+	background: #fff;
+	position: relative;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-o-border-radius: 8px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	overflow: hidden;
+}*/
+/*.icon-img{
+	width: 2.8rem;
+	margin-top: .6rem;
+	margin-right: 1rem;
+}*/
+/*.tab-img{   
+    overflow: hidden;
+    background: #fff;
+    }
+.tab-img img {
+    display: inline-block;
+    margin: 5%;
+    width: 90%;
+    height: 90%;
+    }*/
+/*.tab-coverp {
+    width: 15px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    margin: -54px 0 0 0;
+    font-size: 14px;
+    line-height: 16px;
+    color: #B5B5B5;
+}*/
+/*分类页面classify.html样式结束*/
+.tit-searchbox{
+	
+}		
+.searchbtn{
+	width: 2.8rem;
+    margin-top: .6rem;
+    margin-right: 1rem;
+    float: left;
+
+}		
+
+
+
+/*外部链接*/
+/*.outside-link {
+	width: 90%;
+	padding: 0 5%;
+}
+.link-box {
+	width: 100%;
+	clear: both;
+	overflow: hidden;
+}
+.link-box li {
+	float: left;
+	width: 25%;
+	text-align: center;
+}
+.link-img {
+	display: block;
+	width: 60%;
+	margin: 0 auto;
+}	
+.link-tit {
+	font-size: 1.2rem;
+	padding: .5rem 0;
+}	*/
+
+
+
+.nav-list {
+	position: fixed;
+	right: .5rem;
+	top: 4rem;
+	background:#555;
+	opacity: .95;
+	z-index: 888;
+	/*display: none;*/
+}
+.nav-list:before { 
+	content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    right: .6rem;
+    top: -1.8rem;
+    border: 12px solid;
+    border-color: transparent transparent #555 transparent;
+
+} 
+.nav-list:after {
+	content: ' '; 
+	position: absolute; 
+	width: 0; 
+	height: 0; 
+	left: 38px; 
+	top: 0; 
+	border: 0 solid; 
+	border-color: #fff transparent transparent #fff; 
+}
+.nav-list li {
+	border-bottom:1px solid #999;
+	height: 3.5rem;
+	line-height: 3.5rem;
+	text-align: left;
+	padding: 0 1rem;
+	margin: 0;
+}
+.nav-list li a {
+	color: #fff;
+	padding: .5rem 0 .5rem 2rem;
+	font-size: 1.3rem;
+}
+.navf-page {
+	background: url(img/f-pagehead.png) no-repeat left center;
+	background-size: 1.5rem auto;
+}
+.navbasket {
+	background: url(img/carthead.png) no-repeat left center;
+	background-size: 1.5rem auto;
+}
+.navmember {
+	background: url(img/personhead2.png) no-repeat left center;
+	background-size: 1.5rem auto;
+}
+	</style>
+</head>
+<body>
+	<ul class="nav-list radius3">
+		<li><a href="#" class="navf-page">首页</a></li>
+		<li><a href="#" class="navbasket">购物车</a></li>
+		<li><a href="#" class="navmember">个人中心</a></li>
+	</ul>
+	<!--header开始-->
+		<div class="header-box">
+			<div class="index-header">
+				<a href="#" class="toggle-icon"><img src="img/toggle.png" class="toggle-img"/></a>
+				<!--<p class="search-btn1"><input type="text" placeholder="搜索"/><img src="img/searchbtn.png" class="searchbtn"/></p>-->
+				<a href="#"><!--<img src="img/cart.png" class="head-cartimg"/>--><img src="img/more_b.png" class="head-moreimg" style="display: block;"/></a>
+				<img src="img/toggle.png" class="img-none" />
+			</div>
+			<!--<ul class="toggle-div">
+				<li class="left">
+					<a href="#">
+						<dl class="head-dl">
+							<dt><img src="img/f-page.jpg" alt="" /></dt>
+							<dd>首页</dd>
+						</dl>
+					</a>
+				</li>
+				<li class="left">
+					<a href="#">
+						<dl class="head-dl">
+							<dt><img src="img/cart.png" alt="" /></dt>
+							<dd>购物车</dd>
+						</dl>
+					</a>
+				</li>
+				<li class="left">
+					<a href="#">
+						<dl class="head-dl">
+							<dt><img src="img/cate.jpg" alt="" /></dt>
+							<dd>分类</dd>
+						</dl>
+					</a>
+				</li>
+				<li class="left">
+					<a href="#">
+						<dl class="head-dl">
+							<dt><img src="img/person.jpg" alt="" /></dt>
+							<dd>个人</dd>
+						</dl>
+					</a>
+				 </li>
+			</ul>-->
+		</div>
+		<!--header结束-->	
+	<div class="wrapper posi1">
+		
+		<!--焦点图轮播开始-->
+		<div class="swiper-container" style="margin-top: 48px;height: 20rem;">
+	        <div class="swiper-wrapper">
+	            <div class="swiper-slide"><img src="img/focus1.jpg"/></div>
+	            <div class="swiper-slide"><img src="img/focus2.jpg"/></div>
+	            <div class="swiper-slide"><img src="img/focus3.jpg"/></div>
+	            <div class="swiper-slide"><img src="img/focus4.jpg"/></div>
+	        </div>
+        	<!-- Add Pagination -->
+        	<div class="swiper-pagination"></div>
+    	</div>
+    	<!--焦点图轮播结束-->
+    	
+    	<!--content内容部分开始-->
+    	<div class="content">
+    		<div class="outside-link">
+    			<ul class="link-box">
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    				<li class="link-li">
+    					<a href="#">
+    						<img src="img/addressnull.png" class="link-img"/>
+    						<p class="link-tit">链接标题</p>
+    					</a>
+    				</li>
+    			</ul>
+    		</div>
+    		<div class="topic-list">
+    			<p class="topic-tit">专题</p>
+    			<div class="list-con">
+    				<div class="list-img"><a href="list.html"><img src="img/img1.jpg"/></a></div>
+    				<div class="list-img"><a href="list.html"><img src="img/img2.jpg"/></a></div>
+    				<div class="list-img"><a href="list.html"><img src="img/img3.jpg"/></a></div>
+    			</div>
+    			<div class="more-box1"><a href="#" class="morebtn1">查看更多</a></div>
+    		</div>
+    		<!--家居商品列表开始-->
+    		<div class="con-list">
+    			<div class="con1">
+    				<div style="display: inline-block;width:100%;background#fff;height: 3rem;font-size: 2rem;text-align: center;line-height: 1.6;">家居&nbsp;|<span style="font-size: 1.2rem;letter-spacing:1px;color: #aaa;padding-left: 5px;">回家，放松身心</span></div>
+    				<div class="listbox1">
+    					<a href="details.html">
+	    					<dl class="list-dl">
+	    						<dt><img src="img/code1.png"/></dt>
+	    						<dd>
+	    							<p class="dl-tit">中空纱华纱华纱华纱华纱华夫格面巾 4条装</p>
+	    							<p class="price1"><span>¥</span>449.00</p>
+	    						</dd>
+	    					</dl>
+    					</a>
+    					<dl class="list-dl">
+    						<dt><img src="img/code2.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">中空纱华夫格面巾 4条装</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code3.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">中空纱华夫格面巾 4条装</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code4.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">中空纱华夫格面巾 4条装</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    				</div>
+    				<div class="more-box1"><a href="#" class="morebtn1">查看更多</a></div>
+    			</div>
+    		</div>
+    		<!--家居商品列表结束-->
+    		<!--床品商品列表开始-->
+    		<div class="con-list">
+    			<div class="con1">
+    				<div style="display: inline-block;width: 50%;margin:1rem 25% 0 25%;height: 3rem;font-size: 2rem;text-align: center;line-height: 1.6;">床品&nbsp;|<span style="font-size: 1.2rem;letter-spacing:1px;color: #aaa;padding-left: 5px;">回家，放松身心</span></div>
+    				<div class="listbox1">
+    					<dl class="list-dl">
+    						<dt><img src="img/code1.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code2.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code3.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code4.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    				</div>
+    				<div class="more-box1"><a href="#" class="morebtn1">查看更多</a></div>
+    			</div>
+    		</div>
+    		<!--床品商品列表结束-->
+    		<!--厨房商品列表开始-->
+    		<div class="con-list">
+    			<div class="con1">
+    				<div style="display: inline-block;width: 50%;margin:1rem 25% 0 25%;height: 3rem;font-size: 2rem;text-align: center;line-height: 1.6;">厨房&nbsp;|<span style="font-size: 1.2rem;letter-spacing:1px;color: #aaa;padding-left: 5px;">回家，放松身心</span></div>
+    				<div class="listbox1">
+    					<dl class="list-dl">
+    						<dt><img src="img/code1.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code2.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code3.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code4.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    				</div>
+    				<div class="more-box1"><a href="#" class="morebtn1">查看更多</a></div>
+    			</div>
+    		</div>
+    		<!--厨房商品列表结束-->
+    		<!--饮食商品列表开始-->
+    		<div class="con-list">
+    			<div class="con1">
+    				<div style="display: inline-block;width: 50%;margin:1rem 25% 0 25%;height: 3rem;font-size: 2rem;text-align: center;line-height: 1.6;">饮食&nbsp;|<span style="font-size: 1.2rem;letter-spacing:1px;color: #aaa;padding-left: 5px;">回家，放松身心</span></div>
+    				<div class="listbox1">
+    					<dl class="list-dl">
+    						<dt><img src="img/code1.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code2.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code3.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    					<dl class="list-dl">
+    						<dt><img src="img/code4.png"/></dt>
+    						<dd>
+    							<p class="dl-tit">全棉针织条纹四件套 床笠款</p>
+    							<p class="price1"><span>¥</span>449.00</p>
+    						</dd>
+    					</dl>
+    				</div>
+    				<div class="more-box1"><a href="#" class="morebtn1">查看更多</a></div>
+    			</div>
+    		</div>
+    		<!--饮食商品列表结束-->
+    	</div>
+    	<!--content内容部分结束-->
+    	
+    	<div class="foot1">
+    		<p class="footbtn-box"><a href="#">商城首页</a><a href="#">个人中心</a></p>
+    		<p class="icp"><span>shopdz版权所有&nbsp;©&nbsp;</span><a href="http://www.miibeian.gov.cn" target="_blank">1997-2001</a></p>
+    		<p class="icp"><span>ICP证</span><a href="http://www.miibeian.gov.cn" target="_blank">京ICP备000001号</a>&nbsp;<a href="http://www.miibeian.gov.cn" target="_blank">京ICP备000001号</a></p>
+    	</div>
+    	<!--返回顶部-->
+    	<div style="display:none;" class="gotobtn" id="goTopBtn"><img border=0 src="img/goToTop.png"></div> 
+    	
+    	
+    	
+    	
+    	<div class="cover2">
+		<p class="tab-coverp">点击此处返回</p>
+	</div>
+    	
+    	
+    	<div class="classify">
+		
+		<div class="title2">
+			<p class="search-btn1"><input type="text" placeholder="搜索"/></p>
+			<a href="#"><span class="icon-span right">登录</span></a>
+			<a href="#"><img src="img/person.png" alt=""  class="icon-img right"/></a>
+		</div>
+		<!--分类tab切换开始-->
+		<div class="TabMain">
+			<div id="tabItemCon">
+				<ul class="tabItemContainer scroller">
+					<li><a class="tabItemCurrent">推荐</a></li>
+					<li><a>女装</a></li>
+					<li><a>男装</a></li>
+					<li><a>男鞋</a></li>
+					<li><a>内衣</a></li>
+					<li><a>母婴</a></li>
+					<li><a>女装</a></li>
+					<li><a>男鞋</a></li>
+					<li><a>内衣</a></li>
+				</ul>
+			</div>
+			
+			<div class="tabBodyContainer" id="tabBodyCon">
+				<div class="tabBodyItem tabBodyCurrent scroller">
+					<ul class="listul1">
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/code4.jpg">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		                
+		                <li>
+		                   <a href="#">
+		                        <div class="tab-img">
+		                            <img src="img/cart-img.png">
+		                        </div>
+		                        <p class="tab-desc">手机配件</p>
+		                    </a>
+		                </li>
+		            </ul>
+				</div>
+				
+			</div>
+		</div>
+		<!--分类tab切换结束-->
+	</div>
+    	
+	</div>
+	<!--wrapper结束-->
+	
+	<script src="js/swiper.min.js"></script>
+	<script>
+	if(window.screen.width <540){ 
+		$(".header-box,.index-header").css("width","100%");
+		//alert(document.documentElement.clientWidth);
+	} else { 
+		//alert(window.screen.width );
+		$(".header-box").css("width","100%");
+		$(".index-header,.content").css("width","540px");
+		$(".wrapper,.swiper-container").css("width","540px");
+		$(".wrapper").css("margin","auto");
+		$(".index-header").css("margin","auto");
+	
+	} 
+	//焦点图
+    var swiper = new Swiper('.swiper-container', {
+        pagination: '.swiper-pagination',
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        paginationClickable: true,
+        spaceBetween: 30,
+        centeredSlides: true,
+        autoplay: 2500,
+        autoplayDisableOnInteraction: false
+    });
+    
+    //调用返回顶部的函数
+    goTopEx();
+    $(function(){
+//			$(".toggle-icon").click(function(){
+//
+//				if($(".toggle-div").css("display")=="none"){
+//				
+//				$(".toggle-div").slideDown();
+//				
+//				}else{
+//				
+//				$(".toggle-div").slideUp();
+//				
+//				}
+//				
+//				});
+				
+				
+				
+				
+				
+			$(".toggle-icon").click(function(){
+				$(".classify").show().animate({left:"0"});
+				$(".cover2,.img-none").show();
+			})
+			$(".cover").click(function(){
+				$(".classify").animate({left:"-90%"});
+				$(".cover2,.img-none").hide();
+			})
+			
+		})
+    
+    
+    
+    	$(document).ready(function(e) {
+	SidebarTabHandler.Init();
+});
+var SidebarTabHandler={
+	Init:function(){
+		$(".tabItemContainer>li").click(function(){
+			$(".tabItemContainer>li>a").removeClass("tabItemCurrent");
+			$(".tabBodyItem").removeClass("tabBodyCurrent");
+			$(this).find("a").addClass("tabItemCurrent");
+			$($(".tabBodyItem")[$(this).index()]).addClass("tabBodyCurrent");
+		});
+	}
+}
+	function tabImg(){
+			var tabImgW=$(".tab-img").width();
+			$(".tab-img").height(tabImgW);
+	}
+	tabImg();
+	
+	
+	
+	$(function(){
+		$('.head-moreimg').toggle(function(){
+			
+		})
+	})
+    </script>
+</body>
+</html>

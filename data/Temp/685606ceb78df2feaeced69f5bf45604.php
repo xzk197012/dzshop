@@ -1,0 +1,3 @@
+<?php
+//000000001800a:1:{i:0;a:7:{s:7:"item_id";s:2:"29";s:10:"special_id";s:1:"0";s:9:"item_type";s:8:"adv_html";s:9:"item_data";s:268:"<div style="display: inline-block;width:100%;background#fff;height: 3rem;font-size: 2rem;text-align: center;line-height: 1.6;">特区精选&nbsp;|<span style="font-size: 1.2rem;letter-spacing:1px;color: #aaa;padding-left: 5px;">精品给您，精心为您</span></div>";s:11:"item_usable";s:1:"1";s:9:"item_sort";s:1:"2";s:9:"item_name";s:18:"预置通栏模板";}}
+?>

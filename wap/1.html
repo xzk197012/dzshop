@@ -1,0 +1,50 @@
+<script>
+document.getElementById("copyButton").addEventListener("click", function() {
+    copyToClipboard(document.getElementById("copyTarget"));
+});
+
+function copyToClipboard(elem) {
+    var target = document.getElementById("hiddenText");
+    target.textContent = elem.value;
+    console.log(target.textContent);
+    select(target);
+    document.execCommand("copy");
+}
+
+function select(element) {
+    var selectedText;
+
+    if (element.nodeName === 'INPUT' || element.nodeName === 'TEXTAREA') {
+        element.focus();
+        element.setSelectionRange(0, element.value.length);
+
+        selectedText = element.value;
+    }
+    else {
+        if (element.hasAttribute('contenteditable')) {
+            element.focus();
+        }
+
+        var selection = window.getSelection();
+        var range = document.createRange();
+
+        range.selectNodeContents(element);
+        selection.removeAllRanges();
+        selection.addRange(range);
+
+        selectedText = selection.toString();
+    }
+
+    return selectedText;
+}
+</script>
+<style>
+.hidden {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+}
+</style>
+<input id="copyTarget" value="Text to Copy"> <button id="copyButton">Copy</button>
+
+<textarea id="hiddenText" class="hidden"></textarea>

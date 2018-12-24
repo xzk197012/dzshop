@@ -1,0 +1,57 @@
+[ 2016-11-30T23:31:36+08:00 ] 112.66.135.80 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003217s ]
+
+[ 2016-11-30T23:33:45+08:00 ] 112.66.135.80 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003123s ]
+
+[ 2016-11-30T23:44:12+08:00 ] 112.66.135.80 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003178s ]
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0011s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+
+[ 2016-11-30T23:44:40+08:00 ] 113.108.67.23 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003173s ]
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0008s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+
+[ 2016-11-30T23:44:55+08:00 ] 180.163.2.118 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003230s ]
+SQL: SHOW COLUMNS FROM `shq_setting` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `shq_setting` WHERE `name` IN ('license_secret','license_code')  [ RunTime:0.0007s ]
+NOTIC: [2] Invalid argument supplied for foreach() /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 260 行.
+NOTIC: [8] Undefined variable: data /data/www/web/www.tqshq.com/source/Common/functions.php(8) : eval()'d code(1) : eval()'d code 第 264 行.
+

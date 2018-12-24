@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="aplus-terminal" content="1"/>
+		<meta name="apple-mobile-web-app-title" content="SHOPDZ"/>
+		<meta name="apple-mobile-web-app-capable" content="yes"/>
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/>
+		<title>我的拼团</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+		<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="js/common.js"></script>
+		<script type="text/javascript" src="js/template.js"></script>
+		<script type="text/javascript" src="js/tmpl/fightgroup.js"></script>
+		<script type="text/javascript" src="js/tmpl/weixin.js"></script>
+		<script type="text/javascript" src="js/swiper.min.js"></script>
+	</head>
+	<body>
+		<div id="header_has_nav">
+		</div>
+		<!--wrapper开始-->
+		<div class="wrapper wrapper-bg">
+			<!--content开始-->
+			<div class="content contentT">
+				<!--拼团详情-->
+				<ul id="mygroup" class="mine-group"></ul>
+				<script id="mygroupcontent" type="text/html">
+				<%if(data){%>
+					<%for(var i in data){%>
+					<% var value = data[i];%>
+					<li class="mine-list group-box-list">
+						<div class="mine-list-box">
+						<%if(value['group_group']['status'] == 0){%>
+							<div class="group-process process-success">
+								<h3 class="process-word">正在进行</h3>
+							</div>
+						<%}else if(value['group_group']['status'] == 1){%>
+							<div class="group-process process-success">
+								<h3 class="process-word">拼团成功</h3>
+							</div>
+						<%} else if(value['group_group']['status'] < 0){%>
+							<div class="group-process process-failed">
+								<h3 class="process-word">拼团失败</h3>
+							</div>
+							
+						<%};%>
+							<div class="group-img-box">
+								<img src="<%=value['group']['group_image']%>" alt="" class="group-img group-list-img"/>
+							</div>
+							<div class="group-con">
+								<span class="per-num"><%=value['group']['group_person_num']%>人团</span>
+								<div class="group-name">
+									<span class="group-new">【<%=value['group']['group_name']%>】</span>
+									<p class="mine-group-name"><%=value['group']['goods_name']%></p>
+								</div>
+								<div class="fight-groups-det">
+									<img src="img/group2.png" class="fight-groups-icon" />
+									<p class="fight-det fight-per"><span class="fight-per-num"><%=value['group']['group_person_num']%>人团</span><span>￥</span><span class="fight-money"><%=value['group']['group_price']%></span></p>
+									<p class="fight-det fight-pointer"><img src="img/jt-r2.png" alt="" class="step-jtr"/></p>
+								</div>
+							</div>
+						</div>
+						<div class="mine-group-btnbox">
+							<a href="mineGroupDet.html?active_id=<%=value['group']['id']%>&group_id=<%=value['group_group']['id']%>" class="mine-group-btn">查看团详情</a>
+							<a href="groupdetails.html?order_sn=<%=value['order_sn']%>" class="mine-group-btn">查看订单详情</a>
+						</div>
+					</li>
+					<%};%>
+				<%};%>
+				<div class="img-center default-page" style="display:none;">
+					<img src="img/refundImg.png" alt="" class="coupon-null-img"/>
+					<h4 class="coupon-tit">暂无拼团活动</h4>
+				</div>
+				</script>
+			</div>
+			<!--content结束-->
+		</div>
+		<!--wrapper结束-->
+		<script>
+			$(function(){
+				redirectindex();
+				$('.goback-header').find('.back-icon').unbind('click').click(function() {
+					window.location.href = WapSiteUrl + '/fightGroupList.html';
+				});
+				initPage();
+				getmygroup();
+			})
+		</script>
+	</body>
+</html>

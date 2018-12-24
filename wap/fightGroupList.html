@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="aplus-terminal" content="1"/>
+		<meta name="apple-mobile-web-app-title" content="SHOPDZ"/>
+		<meta name="apple-mobile-web-app-capable" content="yes"/>
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/>
+		<title>拼团</title>
+		<link rel="stylesheet" type="text/css" href="css/reset.css"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+		<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="js/common.js"></script>
+		<script type="text/javascript" src="js/template.js"></script>
+		<script type="text/javascript" src="js/tmpl/fightgroup.js"></script>
+		<script type="text/javascript" src="js/tmpl/weixin.js"></script>
+	</head>
+	<body>
+		<div id="header_has_nav">
+		</div>
+		<!--wrapper开始-->
+		<div class="wrapper wrapper-bg">
+			<!--content开始-->
+			<div class="content">
+				<!--拼团步骤-->
+				<div class="fight-step">
+					<img src="img/group1.png" alt="" class="step-img"/>
+					<div class="step-btn-box">
+						<a href="fightGroupStep.html">
+							查看详情
+							<img src="img/jt-r2.png" alt="" class="step-jtr"/>
+						</a>
+					</div>
+				</div>
+				<!--拼团详情-->
+				<div id="fightgrouplist"></div>
+				<script id="fightgroupcontent" type="text/html">
+					<%if(data.length > 0){%>
+					<%for(i=0;i<data.length;i++){%>
+					<%var value = data[i];%>
+					<div class="group-box-list group-list">
+						<img src="<%=value.group_image%>" alt="" class="group-img group-list-img"/>
+						<div class="group-con">
+							<div class="group-name">
+								<span class="group-new">【<%=value.group_name%>】</span><%=value.goods_name%></div>
+							<p class="group-pro-det"><%=value.group_content%></p>
+							
+							<div class="fight-groups-det">
+								<img src="img/group2.png" class="fight-groups-icon" />
+								<p class="fight-det fight-per"><span class="fight-per-num"><%=value.group_person_num%>人团</span><span>￥</span><span class="fight-money"><%=value.group_price%></span></p>
+								<p class="fight-det fight-pointer" onclick="window.location.href='fightGroupDet.html?active_id=<%=value['id']%>'">去开团<!--<i class="group-jtr"></i>--><img src="img/jt-r2.png" alt="" class="step-jtr"/></p>
+							</div>
+							<p class="group-time">活动时间：<span><%=value.starttime_text%>-<%=value.endtime_text%></span></p>
+						</div>
+					</div>
+					<%}%>
+						
+					<%}%>
+					<div class="img-center default-page" style="display:none;">
+						<img src="img/refundImg.png" alt="" class="coupon-null-img"/>
+						<h4 class="coupon-tit">暂无拼团活动</h4>
+					</div>
+				</script>
+			</div>
+			<!--content结束-->
+		</div>
+		<!--wrapper结束-->
+	</body>
+	<script>
+		$(function(){
+			$('.goback-header').find('.back-icon').unbind('click').click(function() {
+				window.location.href = WapSiteUrl + '/index.html';
+			});
+			getfightgroup();
+			initPage();
+			
+		});
+	</script>
+</html>

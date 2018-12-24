@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>测试手势</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"/>
+	<style>
+		
+		img{
+			width:100%;
+			
+		}
+		li{
+			list-style:none;
+			float:left;
+			width:100%;
+			height:15rem;
+			padding:0px;
+			margin:0px;
+		}
+		.con-img-list{
+			padding:0px;
+			margin:0px;
+			width:100%;
+			height:15rem;
+			overflow:hidden;
+			border:2px solid #666;
+		}
+	</style>
+	<link rel="stylesheet" href="swiper.min.css">
+	<script src="jquery-1.9.1.min.js"></script>
+	<script src="swiper.min.js"></script>
+</head>
+
+<body>
+	<ul class="con-img-list comment-img-list">
+		<li id="img1" class="liW"><img src="../img/focus1.jpg"  img-id="0" class="comment-img"/></li>
+		<li class="liW"><img src="../img/focus2.jpg"  img-id="1" class="comment-img"/></li>
+		<li class="liW"><img src="../img/focus3.jpg"  img-id="2" class="comment-img"/></li>
+		<li class="liW"><img src="../img/focus4.jpg"  img-id="3" class="comment-img"/></li>
+	</ul>
+	<p id="p1"></p>
+	<p id="p2"></p>
+	<script>
+		var img1 = document.getElementById('img1');
+		var p1 = document.getElementById('p1');
+		var p2 = document.getElementById('p2');
+		img1.addEventListener('touchstart', function(event){
+			if(event.targetTouches.length == 2){
+				var touch_a = event.targetTouches[0];
+				this.start_a_x = touch_a.pageX;
+				this.start_a_y = touch_a.pageY;
+				var touch_b = event.targetTouches[1];
+				this.start_b_x = touch_b.pageX;
+				this.start_b_y = touch_b.pageY;
+				this.start_width = this.start_a_x - this.start_b_x;
+				if(this.start_a_x<this.start_b_x){
+					this.start_width = -this.start_width;
+				}
+			};
+		}, true);
+		img1.addEventListener('touchmove', function(event){
+			if(event.targetTouches.length == 2){
+				var touch_a = event.targetTouches[0];
+				this.move_a_x = touch_a.pageX;
+				this.move_a_y = touch_a.pageY;
+				var touch_b = event.targetTouches[1];
+				this.move_b_x = touch_b.pageX;
+				this.move_b_y = touch_b.pageY;
+				this.move_width = this.move_a_x - this.move_b_x;
+				if(this.move_a_x<this.move_b_x){
+					this.move_width = -this.move_width;
+				}
+				if(this.move_width > this.start_width){
+					p1.innerHTML = '放大: '+this.move_width-this.start_width;
+
+				}else{
+					p1.innerHTML = '缩小: '+this.move_width-this.start_width;
+				}
+				p2.innerHTML = this.move_a_x+'  '+this.move_b_x+'<br/>'+this.move_a_y+'   '+this.move_b_y;
+			};
+		}, true);
+
+		
+	</script>
+</body>
+</html>
